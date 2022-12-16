@@ -8,7 +8,5 @@ I should probably write something good here...🤔
 
 ### Some stats 📑
 
-<div style='display: flex; vertical-align: middle'>
-<img src="https://github-readme-stats.vercel.app/api?username=Hidan0&count_private=true&show_icons=true&theme=transparent" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hidan0&hide=html&langs_count=6&layout=compact&theme=transparent" />
-</div>
+![](https://raw.githubusercontent.com/hidan0/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/hidan0/github-stats/master/generated/languages.svg#gh-dark-mode-only)
