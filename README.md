@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-I should probably write something good here...🤔
+*"A good programmer looks both ways before crossing a one way street… then gets hit by car that falls out of the sky"*🪧
 
 ### About me 🦥
 
