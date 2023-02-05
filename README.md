@@ -6,6 +6,12 @@
 
 21 y/o CS student @ Università degli Studi di Milano
 
+Running Linux🐧
+
+Learning Rust🦀!
+
+Using Lua🌙 just for configs... I don't actually like it
+
 ### Some stats 📑
 
 ![](https://github-readme-stats.vercel.app/api?username=Hidan0&count_private=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
