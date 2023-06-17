@@ -4,7 +4,7 @@
 
 ### About me 🦥
 
-21 y/o CS student @ Università degli Studi di Milano
+22 y/o CS student @ Università degli Studi di Milano
 
 Running Linux🐧
 
