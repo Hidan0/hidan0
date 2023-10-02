@@ -6,11 +6,9 @@
 
 22 y/o CS student @ Università degli Studi di Milano
 
-Running Linux🐧
+Running Linux🐧 (I use Arch btw!)
 
 Learning Rust🦀!
-
-Using Lua🌙 just for configs... I don't actually like it
 
 ### Some stats 📑
 
